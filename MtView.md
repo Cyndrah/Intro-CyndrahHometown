@@ -1,5 +1,6 @@
 # MtView
 ### Where to eat
+Clark's Burgers
+Crepevine
 
-
-### What to eat
+### What to do
