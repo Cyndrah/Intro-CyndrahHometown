@@ -4,3 +4,5 @@ Clark's Burgers
 Crepevine
 
 ### What to do
+hiking
+
